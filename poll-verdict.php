@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Poll Verdict
- * Plugin URI:  https://example.com/poll-verdict
+ * Plugin URI:  
  * Description: Create interactive "verdict" style polls with live results, a countdown timer, and an automatic carousel when you have more than one poll. Ships with shortcodes and a native Elementor widget.
  * Version:     1.0.0
- * Author:      Your Name
+ * Author:      Pankaj Shukla
  * Text Domain: poll-verdict
  * License:     GPL v2 or later
  */
